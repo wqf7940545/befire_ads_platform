@@ -1,0 +1,6 @@
+.idea/**
+__pycache__/
+.DS_Store
+facebook-ads.yaml
+google-ads.yaml
+/src/test.py
